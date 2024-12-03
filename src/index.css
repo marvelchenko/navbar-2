@@ -95,6 +95,10 @@ header ul li a {
   text-transform: uppercase;
 }
 
+.logo-2{
+  width: 120px;
+}
+
 header ul li a:hover{
   border-bottom: 1px solid red;
   
@@ -140,6 +144,14 @@ header ul li .icon .icon-2:hover {
     text-align: center;
     
   }
+  header .logo{
+  margin-left: 30px;
+  }
+
+  .logo-2{
+    width: 100px;
+  }
+  
   #chk1:checked ~ ul{
     right: 0;
   }
