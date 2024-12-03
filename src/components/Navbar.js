@@ -34,7 +34,7 @@ const Navbar = () => {
       </ul>
       <div className='menu'>
         <label htmlFor='chk1'>
-        <FontAwesomeIcon icon={faBars} size='2px'  />
+        <FontAwesomeIcon icon={faBars} size='2px' className='menu-2'  />
         </label>
       </div>
     </header>
